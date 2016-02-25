@@ -5,6 +5,34 @@
     Description: This file is custom css file of the website 
 **/
 
+/* main page */
+
+.main-heading {
+    padding-top: 120px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+#landing-page span {
+    color: dodgerblue;
+    font-weight: 700;
+}
+
+.emoji {
+    font-size: 150px;
+}
+
+/* people's page */
+
+.items {
+    margin-top: 40px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
 /* contact page */
 
 .bigicon {
