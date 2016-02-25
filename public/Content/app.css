@@ -1,8 +1,25 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+/**
+    Filename : footer.ejs
+    Author name: Sukhmanbir Kaur
+    Website name: My Favourite People
+    Description: This file is custom css file of the website 
+**/
+
+/* contact page */
+
+.bigicon {
+    font-size: 30px;
 }
 
-a {
-  color: #00B7FF;
+/* footer */
+
+#footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   width:100%;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   background: #e7e7e7;
+   opacity: 50%;
 }
